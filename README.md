@@ -5,7 +5,7 @@
 
 ## Sobre Nosotros
 
-Somos una empresa dedicada a la producción y distribución de contenido de anime de alta calidad. Nuestra misión es llevar historias emocionantes y visualmente impresionantes a audiencias de todo el mundo 🌍.
+Somos una empresa dedicada a la producción y distribución de servicio de alta seguridad. Nuestra misión es llevar historias emocionantes y visualmente impresionantes a servicios de todo el mundo, como rama principal, japón. 🌍.
 
 ## Proyectos Recientes
 
