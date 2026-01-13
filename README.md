@@ -1,26 +1,26 @@
-# 🌟 Bienvenidos a Studio Server Developers GitHub 🌟
+# 🌟 Welcome to Studio Server Developers GitHub 🌟
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932" alt="Animación de Bienvenida" />
+  <img src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932" alt="Welcome Animation" />
 </p>
 
-## Sobre Nosotros
+## About Us
 
-Somos una empresa dedicada a la producción y distribución de servicio de alta seguridad. Nuestra misión es llevar historias emocionantes y visualmente impresionantes a servicios de todo el mundo, como rama principal, japón. 🌍.
+We are a company dedicated to the production and distribution of high-security services. Our mission is to bring exciting and visually impressive stories to services around the world, with Japan as our main branch. 🌍.
 
-## Proyectos Recientes
+## Recent Projects
 
-- **Studio Server Data**: Servicios Datos
-- **Studio Server Music**: Servicio de audio
-- **Studio Server API**: Servicio de API recursos
+- **Studio Server Data**: Data Services
+- **Studio Server Music**: Audio Service
+- **Studio Server API**: API Resources Service
 
-## Nuestro Equipo
+## Our Team
 
-Conoce al talentoso equipo detrás de Studio Server:
+Meet the talented team behind Studio Server:
 
-- **Director Creativo**: Studio Server Style
-- **Productor Ejecutivo**: Studio Server Developers
-- **Equipo de Animación**: Studio Server Animate
+- **Creative Director**: Studio Server Style
+- **Executive Producer**: Studio Server Developers
+- **Animation Team**: Studio Server Animate
 
 <p align="center">
-  <strong>¡Gracias por visitarnos!</strong> 💖
+  <strong>Thank you for visiting us!</strong> 💖
 </p>
